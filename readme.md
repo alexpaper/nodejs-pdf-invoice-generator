@@ -1,5 +1,5 @@
 # Nodejs Easy PDF Invoice Backend 🚀
-Simple nodejs PDF invoice creator.
+Simple nodejs PDF invoice generator.
 ![EasyInvoice](/img/invoice-front.png)
 
 [Easy-Invoice-NPM](https://www.npmjs.com/package/easyinvoice)
@@ -8,7 +8,7 @@ Simple nodejs PDF invoice creator.
 * Nodejs express easyinvoice
 
 ### Instructions
-Download files, open a terminal inside the downlod folder, run 
+Download files, open a terminal inside the downloaded folder, run 
 > npm install
 
 According to your needs edit/modify the invoice data object.
